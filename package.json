@@ -1,5 +1,5 @@
 {
-  "name": "express-typescript-boilerplate",
+  "name": "ZeroCarry-API-Server",
   "version": "3.0.1",
   "description": "A delightful way to building a Node.js RESTful API Services with beautiful code written in TypeScript",
   "main": "src/app.ts",
@@ -13,7 +13,7 @@
   "engines": {
     "node": ">=8.0.0"
   },
-  "repository": "git+ssh://git@github.com/w3tec/express-typescript-boilerplate.git",
+  "repository": "https://github.com/kac-datathon/ZeroCarry-API-Server.git",
   "keywords": [
     "NodeJS",
     "TypeScript",
@@ -23,18 +23,13 @@
     "starter-kit",
     "w3tec.ch"
   ],
-  "homepage": "https://github.com/w3tec/express-typescript-boilerplate#readme",
-  "author": "w3tec.ch <info@w3tec.ch>",
+  "homepage": "https://github.com/kac-datathon/ZeroCarry-API-Server.git",
+  "author": "philographer <yoohoogun114@gmail.com>",
   "contributors": [
     {
-      "name": "David Weber",
-      "email": "david.weber@w3tec.ch",
-      "url": "https://github.com/dweber019"
-    },
-    {
-      "name": "Gery Hirschfeld",
-      "email": "gery.hirschfeld@w3tec.ch",
-      "url": "https://github.com/hirsch88"
+      "name": "Philographer",
+      "email": "yoohoogun114@gmail.com",
+      "url": "https://github.com/philographer"
     }
   ],
   "dependencies": {
